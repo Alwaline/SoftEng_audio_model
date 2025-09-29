@@ -19,13 +19,13 @@
 1. Клонируем репозиторий:
 ```bash
 git clone https://github.com/Alwaline/SoftEng_audio_model.git
-cd audio-classification-yamnet
+cd SoftEng_audio_model
 ```
 
-Устанавливаем зависимости:
+Устанавливаем зависимости (рекомендуется использовать виртуальное окружение):
 
 ```bash
-pip install tensorflow tensorflow-hub librosa numpy scipy
+pip install -r requirements.txt
 ```
 
 ## ▶️ Запуск
