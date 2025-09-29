@@ -18,7 +18,7 @@
 
 1. Клонируем репозиторий:
 ```bash
-git clone https://github.com/your-username/audio-classification-yamnet.git
+git clone https://github.com/Alwaline/SoftEng_audio_model.git
 cd audio-classification-yamnet
 ```
 
